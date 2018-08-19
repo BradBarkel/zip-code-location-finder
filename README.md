@@ -2,7 +2,7 @@
 Zip code location finder uses the Zippopotam.us API to return location information based on the zip code that is submitted.  This app is made with vanilla JavaScript, Bulma CSS, and Font Awesome.
 
 ## Live Demo
-Please visit the [Demo Page](https://bradbarkel.github.io/zip-code-location-finder/) to view.
+Please visit the [Demo Page](https://bradbarkel.github.io/zip-code-location-finder) to view.
  
 ## Built With
 * JavaScript - Plain old vanilla Js, no frameworks 
